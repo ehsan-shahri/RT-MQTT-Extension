@@ -2,10 +2,6 @@
 
     <style> .gray {color:gray} </style>
 
-.. role:: gray
-
-
-.. tip::
 
    This tutorial contains functions and definitions to use the Real-Time MQTT (RT-MQTT) extension.
 
